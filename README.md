@@ -1,2 +1,2 @@
 # MyPythonLabs
-Meine Experimenten mit Python
+Meine Experimente mit Python
