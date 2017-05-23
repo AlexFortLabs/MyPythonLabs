@@ -64,7 +64,15 @@ if __name__ == "__main__":
         csv_dict_reader(f_obj)
 
 print("X" * 50)
-print("ACHTUNG! SAMBA Dienst neustarten nicht vergessen!")
+print("SAMBA reboot? (j) - Ja, (n) - Nein")
+antwort_ende = input()
+if antwort_ende == "n":
+    print("ACHTUNG! SAMBA Dienst neustarten nicht vergessen!")
+    exit()
+elif antwort_ende == "j":
+    print("SAMBA go reboot")
+else:
+    print("Falsche Eingabe. SAMBA Einstellungen sind nicht aktualisiert.")
 print("X" * 50)
 #
 #
