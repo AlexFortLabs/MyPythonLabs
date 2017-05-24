@@ -8,6 +8,7 @@ import csv
 grpPath = "/etc/group"
 smbPath = "/etc/samba/smb.conf"
 
+
 # ----------------------------------------------------------------------
 def UserDa(userName):
     # os.system("id " +
@@ -71,6 +72,9 @@ if antwort_ende == "n":
     exit()
 elif antwort_ende == "j":
     print("SAMBA go reboot")
+    # os.system("/etc/init.d/smb  restart")
+    os.system("service smbd restart")
+    os.system("service smbd status")
 else:
     print("Falsche Eingabe. SAMBA Einstellungen sind nicht aktualisiert.")
 print("X" * 50)
