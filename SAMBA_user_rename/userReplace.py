@@ -7,7 +7,7 @@ import csv
 
 grpPath = "/etc/group"
 smbPath = "/etc/samba/smb.conf"
-
+workPath = "/raid/profile/"
 
 # ----------------------------------------------------------------------
 def UserDa(userName):
@@ -37,6 +37,15 @@ def UserRename(userAlt, userNeu):
             print("SAMBA Konfiguration wird geender!!!")
             EditMyFile(userAlt, str.upper(userNeu), smbPath)
 
+            # path = os.environ['HOME'] # der aktuelle Benutzerordner
+            path = (workPath + userAlt)
+            if os.path.exists(path) == True:
+                print(path, "existiert.")
+                print(path, "Ordner umbenennen.")
+                os.renames(path, workPath + userNeu)
+            else:
+                print(path, "existiert nicht.")
+
             print("User " + userAlt + " wird geloescht!")
             # os.system("userdel -f " + str.upper(userAlt))
             os.system("userdel -f " + userAlt)
@@ -65,15 +74,16 @@ if __name__ == "__main__":
         csv_dict_reader(f_obj)
 
 print("X" * 50)
-print("SAMBA reboot? (j) - Ja, (n) - Nein")
-antwort_ende = input()
-if antwort_ende == "n":
+print("SAMBA reboot?")
+antwort_ende = raw_input("j - Ja, n - Nein: ")
+#antwort_ende = input()
+if antwort_ende == "n" :
     print("ACHTUNG! SAMBA Dienst neustarten nicht vergessen!")
     exit()
-elif antwort_ende == "j":
+elif antwort_ende == "j" :
     print("SAMBA go reboot")
     # os.system("/etc/init.d/smb  restart")
-    os.system("service smbd restart")
+    # os.system("service smbd restart")
     os.system("service smbd status")
 else:
     print("Falsche Eingabe. SAMBA Einstellungen sind nicht aktualisiert.")
