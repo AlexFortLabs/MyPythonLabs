@@ -12,8 +12,8 @@ import zipfile, os
 def backupToZip(folder):
     # Erstelle ZIP-File aus dem Gesamtinhalt des "folder"
 
-    folder = os.path.abspath(folder) # prüfe ob das die absolute Path ist?
-    # Automatische Nummerierung für den Archiv(n) auf Grund von vorhandenen Archiven
+    folder = os.path.abspath(folder) # pruefe ob das der absolute Pfad ist?
+    # Automatische Nummerierung für den Archiv(n) auf Grund von bereits vorhandenen Archive(n)
     nextNumber = 1
     while True:
         zipFilename = os.path.basename(folder) + '_' + str(nextNumber) + '.zip'

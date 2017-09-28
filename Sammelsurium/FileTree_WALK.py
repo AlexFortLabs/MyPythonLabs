@@ -15,6 +15,6 @@ for folderName, subfolders, fileNames in os.walk('C:\\install'):
         print('Unterordner im Ordner ' + folderName + ': ' + subfolder)
 
     for fileName in fileNames:
-        print('File im Ordner ' + folderName + ': ' + fileName)
+        print('Dateien im Ordner ' + folderName + ': ' + fileName)
 
     print(' ')
