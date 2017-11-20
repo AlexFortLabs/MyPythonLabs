@@ -10,7 +10,9 @@
 # --------------------------------------------------------
 import os
 
-source_dir = '\\\\funkegruppe.de\\userdata\\Userlaufwerk'
+# Hole Benutzerdefinierte Systemvariabel MYDOMAINVOLL – von mir selbst definierte
+domaine = os.getenv('MYDOMAIN')
+source_dir = '\\\\' + domaine + '.de' + '\\userdata\\Userlaufwerk'
 #file_basename = 'desktop'
 
 for myDirEbene2 in os.listdir(source_dir):
@@ -19,6 +21,6 @@ for myDirEbene2 in os.listdir(source_dir):
         #if filename.endswith('.ini') and os.path.basename(filename) == 'desktop' : # !FEHLER!
         if filename == 'desktop.ini':
             # mach was - lösche die gefundene Datei
-            #os.unlink(os.path.join(source_dir, myDirEbene2, filename))
+            os.unlink(os.path.join(source_dir, myDirEbene2, filename))
             # und zeige was gelöscht ist
             print(os.path.join(source_dir, myDirEbene2, filename))

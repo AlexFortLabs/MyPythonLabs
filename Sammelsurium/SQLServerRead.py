@@ -6,30 +6,34 @@
 # 1.0           2017        Initial Version
 # Hello Python 3
 # --------------------------------------------------------
-
+import os
 import pypyodbc as db
 
-mySQLServer = "FUNKEGRUPPE\SQL1"
-myDBase = "northwind"
+# Hole Benutzerdefinierte Systemvariabel MYDOMAIN – von mir selbst definierte
+domaine = os.getenv('MYDOMAIN')
 
-connect_string = 'DRIVER={SQL Server};SERVER=SQL1;DATABASE=test_vertrieb;Trusted_Connection=yes'
+mySQLServer = (domaine + "\SQL1")
+
+myDBase = "Stamdaten"
+
+connect_string = 'DRIVER={SQL Server};SERVER=SQL1;DATABASE=Stammdaten;Trusted_Connection=yes'
 connection = db.connect(connect_string)
 cursor = connection.cursor()
 
 mySQLQuery = ("""
-                SELECT kdnr, kdname, plz, land
-                FROM dbo.Hilmes_Kunden
-                WHERE land = 'NL'
+                SELECT id, konto, bereich, zeitstempel
+                FROM dbo.Zuordnung_Konto_Bereich
+                WHERE bereich = 'Rohstoffe'
              """)
 
 cursor.execute(mySQLQuery)
 results = cursor.fetchall()
 
 for row in results:
-    compName = row[0]
-    contactName = row[1]
-    landName = row[2]
+    id = row[0]
+    konto = row[1]
+    bereich = row[2]
 
-    print("Welcome: " + str(compName) + " User: " + str(contactName) + " Land: " + str(landName))
+    print("ID: " + str(id) + " Konto: " + str(konto) + " Bereich: " + str(bereich))
 
 connection.close()
