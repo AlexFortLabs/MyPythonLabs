@@ -10,11 +10,9 @@ import os
 import pypyodbc as db
 
 # Hole Benutzerdefinierte Systemvariabel MYDOMAIN – von mir selbst definierte
-domaine = os.getenv('MYDOMAIN')
-
-mySQLServer = (domaine + "\SQL1")
-
-myDBase = "Stamdaten"
+#domaine = os.getenv('MYDOMAIN')
+#mySQLServer = (domaine + "\SQL1")
+#myDBase = "Stamdaten"
 
 connect_string = 'DRIVER={SQL Server};SERVER=SQL1;DATABASE=Stammdaten;Trusted_Connection=yes'
 connection = db.connect(connect_string)
