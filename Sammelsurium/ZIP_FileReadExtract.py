@@ -4,7 +4,7 @@
 #
 # Version       Date        Info
 # 1.0           2017        Initial Version
-# Objekt mitels Funktion zipfile.ZipFile() erstellen und:
+# Objekt mitels Funktion zipfile.ZipFile() erstellen:
 # --------------------------------------------------------
 import zipfile, os
 

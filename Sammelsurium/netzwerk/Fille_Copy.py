@@ -13,11 +13,12 @@ import shutil
 #pc_list = ["W7-FPL-7", "w7-fpl-5", "w7-fpl-6", "WKS-FPL001", "WKS-FPL002", "WKS-FPL003", "WKS-FPL004"]
 #pc_list = ["W7-FPL-7", "WKS-FPL002", "WKS-FPL003", "WKS-FPL004", "WKS-W7-DEVEL"]
 #pc_list = ["W7-FPL-7", "WKS-FPL003", "W7-FPL-2", "MOBIL-W7-FPL2"]
-pc_list = ["W7-FPL-2"]
+#pc_list = ["W7-FPL-2"]
 #pc_list = ["depcl080"]
+pc_list = ["depcd014", "depcd017", "depcd018"]
 
 file_name1 = r"\Maintenance.TSK"
-file_name2 = r"\Job10011-32-64.exe"
+file_name2 = r"\Job00005-32-DE.exe"
 source_path = r"\\localhost\work"
 
 for next_pc in pc_list:

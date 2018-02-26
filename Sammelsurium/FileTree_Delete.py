@@ -10,7 +10,7 @@
 # --------------------------------------------------------
 import os
 
-for filename in os.listdir('C:\\install'):
+for filename in os.listdir('C:\ListenTXT'):
     if filename.endswith('.txt') or filename.endswith('.html'):
         #os.unlink(filename)      # lösche die gefundene Datei
         print(filename)           # zeige was gelöscht ist
