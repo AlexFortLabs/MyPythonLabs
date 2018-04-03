@@ -25,6 +25,8 @@
 # --------------------------------------------------------
 
 import dns.resolver
+#import dns
+#from dns import resolver
 import sys
 
 bls = ["zen.spamhaus.org", "spam.abuse.ch", "cbl.abuseat.org", "virbl.dnsbl.bit.nl", "dnsbl.inps.de",
