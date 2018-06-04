@@ -10,110 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_Windows.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Windows.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_Butons.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Butons.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_ObjectEdit.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ObjectEdit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_ObjectPosition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ObjectPosition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_LABEL.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_LABEL.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="34" column="134" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="134" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_ENTRY_Eingabe.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ENTRY_Eingabe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="126" column="0" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-              <folding>
-                <element signature="e#1059#1080#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_Checkbutton.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Checkbutton.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_Radiobutton.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Radiobutton.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="86" column="91" lean-forward="false" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_LISTBOX.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_LISTBOX.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1644">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWX_G9_GUI_Tkinter_MENU.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_MENU.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="717">
-              <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -224,7 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,7 +143,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -578,13 +475,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/HelloW5_Funktionen.py" />
-    <entry file="file://$PROJECT_DIR$/HelloW5_Funktionen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-388">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloW5_Funktionen.py" />
     <entry file="file://$PROJECT_DIR$/web/selenium_browser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -592,13 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloW6_Variabel_GlobLock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="56" lean-forward="false" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloW6_Variabel_GlobLock.py" />
     <entry file="file://$PROJECT_DIR$/account.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -606,20 +491,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloW8_Try_Except.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloW9_Kortegi_TULPEn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloW8_Try_Except.py" />
+    <entry file="file://$PROJECT_DIR$/HelloW9_Kortegi_TULPEn.py" />
     <entry file="file://$PROJECT_DIR$/netzwerk/ultravnc.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -634,237 +507,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloW9_Spiski_LISTen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloW9_Slowari_DICTIONARYs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="182" column="4" lean-forward="false" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloW9_Mnogestwo_SETs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloW9_Spiski_LISTen.py" />
+    <entry file="file://$PROJECT_DIR$/HelloW9_Slowari_DICTIONARYs.py" />
+    <entry file="file://$PROJECT_DIR$/HelloW9_Mnogestwo_SETs.py" />
     <entry file="file://$PROJECT_DIR$/messages.txt" />
-    <entry file="file://$PROJECT_DIR$/HelloW7_Module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_IO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_TXT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloW7_Module.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_IO.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_TXT.py" />
     <entry file="file://$PROJECT_DIR$/users.csv" />
-    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_CSV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGsFormatierung.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Modul_RANDOM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Modul_LOCALE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_BINERY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_OS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGsMethoden.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2108">
-          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGsBeispielPRG.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Modul_MATH.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Module_DECIMAL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="101" lean-forward="false" selection-start-line="45" selection-start-column="101" selection-end-line="45" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_CSV.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGsFormatierung.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Modul_RANDOM.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Modul_LOCALE.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_BINERY.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G4_Files_OS.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGs.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGsMethoden.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G5_STRINGsBeispielPRG.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Modul_MATH.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G6_Module_DECIMAL.py" />
     <entry file="file://$PROJECT_DIR$/netzwerk/DNSBlacklistChecker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#527#546#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G8_Modul_DATETIME.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" column="61" lean-forward="false" selection-start-line="92" selection-start-column="61" selection-end-line="92" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G8_Format_Date_Time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
-          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Windows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Butons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ObjectEdit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_LABEL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="34" column="134" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="134" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ObjectPosition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ENTRY_Eingabe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="126" column="0" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding>
-            <element signature="e#1059#1080#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Checkbutton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Radiobutton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="86" column="91" lean-forward="false" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_LISTBOX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1644">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_MENU.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWX_G8_Modul_DATETIME.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G8_Format_Date_Time.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Windows.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Butons.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ObjectEdit.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_LABEL.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ObjectPosition.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_ENTRY_Eingabe.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Checkbutton.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_Radiobutton.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_LISTBOX.py" />
+    <entry file="file://$PROJECT_DIR$/HelloWX_G9_GUI_Tkinter_MENU.py" />
   </component>
 </project>
